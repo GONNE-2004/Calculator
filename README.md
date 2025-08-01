@@ -10,4 +10,4 @@ TOOLS:
 
 CODE STRUCTURE:
 -"main.py" : main logic
-\_ "art.py":ASCII art for Calculator
+-"art.py":ASCII art for Calculator
